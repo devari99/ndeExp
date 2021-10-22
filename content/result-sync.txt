@@ -1,0 +1,1 @@
+Write :This new text write with write InFirstFile: hello this is first file
